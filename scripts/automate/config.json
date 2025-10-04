@@ -6,7 +6,7 @@
   "polygon_width_m": 5000,
   "export_scale_m": 10,
   "crs": "EPSG:32616",
-  "orbit_pass": "ASCENDING",
+  "orbit_pass": "ANY",
   "time_mode": "quarterly",   
   "start_year": 2018,
   "end_year": 2025,
