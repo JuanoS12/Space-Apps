@@ -1,0 +1,36 @@
+{
+  "project_id": "nasa-space-apps-473722",
+  "bucket": "nasa_sar_spacetron",
+  "aoi_kmz": "/content/TrenMaya_Sections.kmz",
+  "geometry_mode": "oriented_rectangles", 
+  "polygon_width_m": 5000,
+  "export_scale_m": 10,
+  "crs": "EPSG:32616",
+  "orbit_pass": "ASCENDING",
+  "time_mode": "quarterly",   
+  "start_year": 2018,
+  "end_year": 2025,
+  "bands": ["VV", "VH"],
+
+  "derived_bands": {
+    "vv_db": true,
+    "vh_db": true,
+    "vv_minus_vh_db": true,
+    "vv_div_vh_lin": true,
+    "angle": true
+  },
+
+  "export_options": {
+    "format": "GeoTIFF",
+    "compression": "LZW",
+    "cloud_optimized": true
+  },
+
+  "log_manifest": true,
+  "log_path": "manifest/extractions.csv",
+
+  "modes": {
+    "preview_only": false,
+    "skip_existing": true
+  }
+}
