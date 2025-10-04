@@ -1,7 +1,7 @@
 {
   "project_id": "nasa-space-apps-473722",
   "bucket": "nasa_sar_spacetron",
-  "aoi_kmz": "/content/TrenMaya_Sections.kmz",
+  "aoi_kmz": "https://raw.githubusercontent.com/JuanoS12/Space-Apps/main/scripts/automate/aoi_kmz",
   "geometry_mode": "oriented_rectangles", 
   "polygon_width_m": 5000,
   "export_scale_m": 10,
