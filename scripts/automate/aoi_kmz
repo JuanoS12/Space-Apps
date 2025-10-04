@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="KmlFile">
+	<StyleMap id="__managed_style_0C300E30073AE5EB7C09">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1FCDE254F23AE5EB7C09</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_27938583CA3AE5EB7C09</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_27938583CA3AE5EB7C09">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1FCDE254F23AE5EB7C09">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0C300E30073AE5EB7C090">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1FCDE254F23AE5EB7C09</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_27938583CA3AE5EB7C09</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="0B46DC66D13AE5D0B200">
+		<name>Zonas</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_0C300E30073AE5EB7C090</styleUrl>
+		<Placemark id="04B0E09BE03AE5E3A2FF">
+			<name>Z1</name>
+			<LookAt>
+				<longitude>-90.04120937370391</longitude>
+				<latitude>20.41971527567377</latitude>
+				<altitude>-7.073241992117119e-10</altitude>
+				<heading>0.05398614806457841</heading>
+				<tilt>0.1481093197857386</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>26740.4058916516</range>
+				<altitudeMode>absolute</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_0C300E30073AE5EB7C09</styleUrl>
+			<LineString>
+				<coordinates>
+					-90.04195286804207,20.36842625287366,0 -90.04648926137321,20.38704609187052,0 -90.03518937347107,20.41788334011808,0 -90.03165383248212,20.45692345592285,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
+<?earth data="CqwFCqkFCt0DChQwQjQ2REM2NkQxM0FFNUQwQjIwMBIvGAEiBVpvbmFzKgAyADoECgASAEABagIQAXIAggEOCgYIARICCAESBAgBEAGIAQEihgMKFDA0QjBFMDlCRTAzQUU1RTNBMkZGEvwBEkUKEhmFptZ1cms0QCE0FqQso4JWwBEAAACAsE0IvhgBIXiuv4gSpKs_KfA0WwY_9cI_MVf6IPoZHdpAQQAAAAAAgEFAUAEYASICWjEqADIAOgQKABIAQAJKigEShwEShAEKHQoSGYkU0y5RXjRAIbQNFVuvglbAKQAAAAAAAAAACh0KEhnkoOJzFWM0QCGkTRiu-YJWwCkAAAAAAAAAAAodChIZtVkPZ_pqNEAhZg7uikCCVsApAAAAAAAAAAAKHQoSGcb2g-_4dDRAIXHTy50GglbAKQAAAAAAAAAAEAIYACAAKAByAIIBDgoGCAESAggBEgQIARABiAEBMm8KIgogCgMI0A8aBwjS7WUQ_wEhAAAAAAAA8D8pAAAAAAAAAAASDQoICK2A7wcQ_wEQoB8aGAoHCP___wcQQBIICK2A7wcQ_wEYoB8gACIJCAISBQj___8HKhUIARIICP___wcQ_wEZAAAAAAAA8D8yCyIJCAISBQj___8HEqMBCiMKE0NPTDU3QzEyRjA4QUQ5ODY4Q0USChoGRXN0YWRvIAEYAAomChNDT0w1N0MxMkYwOEFENTkyRTkyEg0aCU11bmljaXBpbyABGAEKJwoTQ09MNTdDMTJGMDhBRDM4QjE3MxIOGgpQb2JsYWNpw7NuIAEYAgorChNDT0w1N0MxMkYwOEFEMzg0QjhDEhIaDmd4X21lZGlhX2xpbmtzIAEYAxohMW1JUTQxbjR3eVZ2WnNMZ1I0ckI0SXNqd3pKWWZKaXRB"?>
