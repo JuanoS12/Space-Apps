@@ -1,7 +1,7 @@
 {
   "project_id": "nasa-space-apps-473722",
   "bucket": "nasa_sar_spacetron",
-  "aoi_kmz": "https://drive.google.com/uc?export=download&id=10cPD9F3QoY2ARTrjJYM51lB0F4OI7HM0",
+  "aoi_kmz": "https://drive.google.com/uc?export=download&id=1oPVRvGny1y-pDE-5G-ayTUpSGHw0Rlh-",
   "geometry_mode": "oriented_rectangles", 
   "polygon_width_m": 2000,
   "export_scale_m": 10,
